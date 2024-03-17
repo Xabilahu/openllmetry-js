@@ -41,7 +41,7 @@
     "@traceloop/instrumentation-azure": "^0.5.24",
     "@traceloop/instrumentation-bedrock": "^0.5.24",
     "@traceloop/instrumentation-cohere": "^0.5.24",
-    "@traceloop/instrumentation-langchain": "^0.5.24",
+    "@traceloop/instrumentation-langchain": "file:../instrumentation-langchain",
     "@traceloop/instrumentation-llamaindex": "^0.5.24",
     "@traceloop/instrumentation-openai": "^0.5.24",
     "@traceloop/instrumentation-pinecone": "^0.5.24",
